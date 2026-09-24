@@ -1,1 +1,1 @@
-Mi proyecto para la creación de ramas 
+Repositorio de práctica para trabajar con ramas en Git y GitHub.
