@@ -4,6 +4,9 @@ Modificación de tamaño letra
 MoDiFicaCion filtros (Adriann)
 Modificación colores
 
+Modificación colores
+
+Modificación de estructura
 Modificación de Mart
 Prueba de actualización 
 Pruebas y Validaciones Muchachos
