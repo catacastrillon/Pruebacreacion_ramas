@@ -5,3 +5,4 @@ Modificación de tamaño letra
 Modificación colores
 
 Modificar archivo de github
+Modificación de tamaño 
