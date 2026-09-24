@@ -1,10 +1,15 @@
 Repositorio de práctica para trabajar con ramas en Git y GitHub.
 
 Modificación de tamaño letra
+MoDiFicaCion filtros (Adriann)
+Modificación colores
 
 Modificación colores
 
 Modificar archivo de github
+Modificación de estructura
+Modificación de Mart
+Prueba de actualización 
 Pruebas y Validaciones Muchachos
 Modificación de fuentes de datos:Sebas-
 Modificación de tamaño 
